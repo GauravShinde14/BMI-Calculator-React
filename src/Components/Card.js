@@ -20,13 +20,7 @@ export default function Card() {
  
       // Logic for message
         setMessage('your bmi is ' + bmi.toFixed(1));
-    //   if (bmi < 25) {
-    //     setMessage('You are underweight')
-    //   } else if (bmi >= 25 && bmi < 30) {
-    //     setMessage('You are a healthy weight')
-    //   } else {
-    //     setMessage('You are overweight')
-    //   }
+    
     }
   }
  
